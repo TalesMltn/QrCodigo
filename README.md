@@ -7,10 +7,10 @@ Ha sido una experiencia valiosa para perfeccionar nuestras habilidades trabajand
 ## Equipo de desarrollo 
 | Apellidos y Nombres | Rol |
 |---------------------|-----|
-|Bacilio De La Cruza, Jose Anthony| Scrum master |
-|Serpa Carpena, Edgardo German| Product Owner|
-|Vega Reyes, Steven andrew|
-|Calderón Palomino, Luz Mayli|
-|Sierra Leiva, Piero Martin|
-|Lavado Valencia Thalia|
+|Bacilio De La Cruza, Jose Anthony| Desarrollador |
+|Serpa Carpena, Edgardo German| Desarrollador|
+|Vega Reyes, Steven andrew| Desarrollador|
+|Calderón Palomino, Luz Mayli| Desarrollador|
+|Sierra Leiva, Piero Martin| Desarrollador|
+|Lavado Valencia Thalia| Desarrollador|
 
